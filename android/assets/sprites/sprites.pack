@@ -1,0 +1,33 @@
+
+sprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player
+  rotate: false
+  xy: 0, 64
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+enemy1
+  rotate: false
+  xy: 0, 32
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+enemy2
+  rotate: false
+  xy: 128, 32
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 0, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
