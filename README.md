@@ -2,7 +2,7 @@
 
 ## TCC 2019
 
-Jogo feito como trabalho de conclusão de curso por André Ellias Zanella e Júlio Werner Zanatta Koepsel, disponível na plataforma Android.  
+Jogo feito como trabalho de conclusão de curso por André Ellias Zanella e Júlio Werner Zanatta Koepsel para a plataforma Android.  
 Disponível em: https://play.google.com/store/apps/details?id=com.tcc.aventurafelina  
 
 ## Créditos:
